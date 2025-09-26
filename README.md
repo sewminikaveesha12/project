@@ -17,17 +17,14 @@ The system provides a practical demonstration of core OOP concepts while impleme
       * GPA calculation and academic status tracking.
       * Advanced student management using **encapsulation** through a secure student record with input validation.
 
-\<hr\>
 
   * **Encapsulation**
       * Sensitive student information is securely stored and managed with controlled access and validation.
 
-\<hr\>
 
   * **Polymorphism**
       * Role-specific behaviors and workloads are implemented, allowing uniform handling of different person types.
 
-\<hr\>
 
   * **Department and Course Management**
       * Departments and courses are modeled with enrollment limits and prerequisites.
