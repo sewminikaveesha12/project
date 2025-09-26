@@ -1,0 +1,21 @@
+Question 1 – Enhanced OOP: University Management System
+
+# University Management System
+# Requirements for running the project
+# Tested with Python 3.8 or higher
+python>=3.8
+
+Question 2 –Data Analysis: E-commerce Data Analysis
+
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+plotly
+scikit-learn
+
+
